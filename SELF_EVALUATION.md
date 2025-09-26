@@ -18,27 +18,27 @@
 
 Check these items from the [Comp 127 Style Guide](https://comp127.innig.net/resources/style-guide/):
 
-- [ ] all classes are in packages
-- [ ] package names start with a lowercase letter
-- [ ] newly created Java files have a header comment with
-    - [ ] author name
-    - [ ] brief description of class, and
-    - [ ] acknowledgement, if appropriate
-- [ ] identifier (variable and method) names are descriptive
-- [ ] variable and method names are in lowerCamelCase (no CapitalizedNames,
+- [x] all classes are in packages
+- [x] package names start with a lowercase letter
+- [x] newly created Java files have a header comment with
+    - [x] author name
+    - [x] brief description of class, and
+    - [x] acknowledgement, if appropriate
+- [x] identifier (variable and method) names are descriptive
+- [x] variable and method names are in lowerCamelCase (no CapitalizedNames,
   names_with_underscores)
-- [ ] class names are singular nouns
-- [ ] class names are in UpperCamelCase
-- [ ] proper indentation:
-    - [ ] opening curly braces (“{”) are at the end of the line
-    - [ ] closing curly braces (“}”) are on their own line
-    - [ ] the indentation of closing braces is the same as the indentation of the
+- [x] class names are singular nouns
+- [x] class names are in UpperCamelCase
+- [x] proper indentation:
+    - [x] opening curly braces (“{”) are at the end of the line
+    - [x] closing curly braces (“}”) are on their own line
+    - [x] the indentation of closing braces is the same as the indentation of the
       opening statements they match
-    - [ ] lines are indented according to how deeply they are nested
-- [ ] completed TODOs are deleted
-- [ ] extra blank lines are deleted
-- [ ] unneeded commented lines of code are deleted
-- [ ] print statements used for testing are deleted
+    - [x] lines are indented according to how deeply they are nested
+- [x] completed TODOs are deleted
+- [x] extra blank lines are deleted
+- [x] unneeded commented lines of code are deleted
+- [x] print statements used for testing are deleted
 
 
 ## Reflection
